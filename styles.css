@@ -1,0 +1,98 @@
+* {
+    border: none;
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+}
+
+a {
+    text-decoration: none;
+}
+
+.container-fluid {
+    background-color: #FFF;
+    padding-left: 2%;
+    padding-right:  2%;
+}
+
+.top {
+    background-color: #5452F6;
+}
+
+.topTop {
+    padding: 3%;
+}
+
+.brand {
+    font-weight: 600;
+    font-size: 24px;
+    color: #FFF;
+    margin-bottom: 5%;
+}
+
+.contentName {
+    font-weight: 500;
+    font-size: 16px;
+    color: #FFF;
+}
+
+.contentText {
+    font-size: 14px;
+    letter-spacing: 0.004em;
+    color: #FFF;
+}
+
+.topBottom {
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+.text18 {
+    font-weight: 600;
+    font-size: 18px;
+    color: #FFF;
+}
+
+.text12 {
+    font-size: 12px;
+    letter-spacing: 0.004em;
+    color: #FFF;
+}
+
+.btn-refer {
+    background-color: #0A0A0B;
+    border-radius: 4px;
+    padding: 9px 32px;
+    font-size: 14px;
+    color: #FFF;
+}
+
+.btn-refer:hover {
+    color: #FFF;
+}
+
+.bottom {
+    padding: 2% 0;
+}
+
+.lastText {
+    font-size: 12px;
+    color: #0A0A0B;
+    opacity: 0.8;
+}
+
+.btn-un {
+    font-size: 12px;
+    color: #0A0A0B;
+    opacity: 0.8;
+    font-weight: 500;
+}
+
+.btn-un:hover {
+    color: #0A0A0B;
+    opacity: 0.8;
+}
