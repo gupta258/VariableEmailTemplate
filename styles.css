@@ -76,7 +76,7 @@ a {
 }
 
 .bottom {
-    padding: 2% 0;
+    padding: 2% 3%;
 }
 
 .lastText {
@@ -95,4 +95,22 @@ a {
 .btn-un:hover {
     color: #0A0A0B;
     opacity: 0.8;
+}
+
+@media only screen and (max-width: 600px) {
+    .brand {
+        margin-bottom: 6%;
+    }
+    .topTop {
+        padding-top: 8%;
+    }
+    .topBottom {
+        padding-top: 10%;
+        padding-bottom: 10%;
+        padding-left: 3%;
+        padding-right: 3%;
+    }
+    .bottom {
+        padding: 8% 3%;
+    }
 }
